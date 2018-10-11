@@ -1,7 +1,7 @@
 ---
-title: People
-subtitle: The humans behind this project
-team-list:
+title: Our Team
+subtitle: MAEMOD team members
+team:
   - name: Lisa White
     img: /img/team/lisa.jpg
     desc: Head of Mathematical and Economic Modelling and Professor of Modelling and Epidemiology
@@ -14,4 +14,5 @@ team-list:
 	twitter: https://twitter.com/bugwonk
 ---
 
-{% include list-circles.html items=page.team-list %}
+## TEAM 
+{% include list-circles.html items=page.team %}
