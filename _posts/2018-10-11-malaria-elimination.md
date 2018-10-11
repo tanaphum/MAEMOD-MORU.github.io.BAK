@@ -12,7 +12,7 @@ Richard J Maude1, Sompob Saralamba1, Adrian Lewis, Dean Sherwood, Nicholas J Whi
 
 ## Project Outline
 
-###Introduction
+### Introduction
 Malaria kills over 1 million people every year. Previous attempts to control malaria have failed and for the past 40 years global eradication was thought to be impossible. However, there are now new, more effective, tools available such as insecticide treated bednets and more powerful antimalarial drugs. There is also unprecedented commitment from international bodies such as the WHO and the Roll Back Malaria Partnership. As a result, global malaria eradication is very much back on the international agenda. The difficulty is knowing which intervention strategies to use and how best to combine them to achieve maximum impact in a variety of different settings. Mathematical modelling has great potential as a tool to help guide and inform these decisions by predicting the impact of various strategies before funds are committed. Although many models of malaria exist, very little modelling of malaria elimination has thus far been attempted.
 
 ### Methods
