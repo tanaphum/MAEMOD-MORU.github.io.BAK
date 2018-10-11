@@ -21,11 +21,11 @@ navbar-links:
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "slphyx"
+  name: "MAEMOD"
   email: "saralamba@gmail.com"
-  github: maemod-moru.github.io
-  facebook: yourname  
-  twitter: yourname   
+  github: "maemod-moru.github.io"
+  facebook:   
+  twitter:    
 
 # Select which links to show in the footer
 footer-links-active:
