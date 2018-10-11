@@ -9,7 +9,7 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  background-image: url(../img/background.png);
+  /* background-image: url(../img/background.png); */
   background-repeat: no-repeat;
 }
 p {
@@ -100,7 +100,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #314f96;
+  background: #F5F5F5;
   border-bottom: 1px solid #294481;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
