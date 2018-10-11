@@ -17,7 +17,7 @@ navbar-links:
     - GitHub Pages: "https://www.github.com/maemod-moru"
 
     
-title-img: "/img/morulogo.png"
+navbar-img: "/img/morulogo.png"
     
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
