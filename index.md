@@ -1,47 +1,18 @@
 ---
+layout: page
+title: MAEMOD Code Sharing Site
+subtitle: This is where we share our software codes, data and information of our projects
 ---
 
-<img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
+The Mathematical and Economic MODelling (MAEMOD) Department’s main research focus is mathematical and economic models for the transmission, control and elimination of tropical diseases. Because of its position in a tropical medicine research unit serving South-East Asia, MAEMOD’s work is closely integrated with other disciplines. This results in research that is highly pragmatic and data-driven, often involving dynamic interplay with experiments and field research.
 
-The **R** **E**pidemics **Con**sortium (RECON) is international
-not-for-profit, **non-governmental organisation** gathering experts in data
-science, modelling methodology, public health, and software development to
-create the next generation of analytics tools for informing the response
-to *disease outbreaks*, *health emergencies* and *humanitarian crises*, 
-using the [R software](https://www.r-project.org/) and other free, 
-open-source resources.
+The work of [MORU](http://www.tropmedres.ac)’s Mathematical and Economic Modelling Department (MAEMOD) was recently featured in a [video on SciDevNet](http://www.scidev.net/global/malaria/multimedia/maths-weapon-against-malaria.html)
 
-This includes packages specifically designed for handling, visualising, and
-analysing outbreak data using cutting-edge statistical methods, as well as more
-general-purpose tools for data cleaning, versioning, and encryption, and system
-infrastructure.
+MAEMOD also coordinates an international network of infectious disease modellers and modelling research beneficiaries working in the Tropics ([TDModNet](http://www.tdmod.net/)). 
 
-Our packages must fulfil three key aspects:
+Three groups sit within MAEMOD:
 
-- *Efficiency*: our tools can be used in real time to improve situation
-  awareness and inform intervention strategies.
+- **[The Economics and Translational Research Group (ETRG)](http://www.tropmedres.ac/the-economics-and-translational-research-group-etrg)** focuses on the impact and cost-effectiveness of new interventions when introduced in real-life settings, utilising approaches ranging from early stage modelling through qualitative research, to pragmatic clinical trials. The team includes health economists, social scientists and clinician-researchers.
+- **[The Bacterial Resistance Analysis Group (BRAG)](http://www.tropmedres.ac/about-the-bacterial-resistance-analysis-group-brag)** investigates bacterial-resistant infections primarily in Southeast Asia using cross-cutting research techniques.
+- **The neglected tropical diseases modelling group** led by Wirichada Pan-ngum focuses on regional health problems, mostly neglected tropical diseases such as leptospirosis, melioidosis, dengue, and tuberculosis. The modelling approach is used to explore some specific issues that may become relevant to infectious diseases including aging populations, health attitudes and practices, chronic infections such as diabetes, climate change, life style and urbanization. The team combines modelling with community health research, population surveys and qualitative studies. They use surveys to refine their research questions and plan for effective implementation of new interventions. A key aim is to build capacity within the group with the training of new modellers, and a long-term goal is to create a modelling network in Southeast Asia.
 
-- *Reliability*: our tools are thoroughly and constantly tested using
-  professional software development methods.
-
-- *Accessibility*: our tools are free, open-source, and available on virtually
-  any platform; they can be used with different levels of expertise, and provide
-  graphical user interfaces implementing the most important functionalities.
-
-Besides its active involvement in the creation of tools, RECON is also
-increasingly dedicated to:
-
-- *disseminating knowledge*: RECON is developing a new training platform, and a
-   series of workshops and short courses on epidemics analysis and outbreak
-   response. Our [public forum ](/forum) is also dedicated to sharing exptertise
-   on these topics.
-
-- *outbreak response deployment*: RECON supports the deployment of data analysts
-   to the field as part of outbreak response teams; this includes the deployment
-   of staff as well as analysis systems adapted to low resources settings.
-
-
-<br> As of 19th September 2018, RECON is a *not-for-profit*, *incorporated
-association* regulated by the French law, in accordance to the association law of
-1st July 1901 and the decree of the 16th August 1901. For more information about
-the remit of RECON, check our [official statutes](documents/statutes_en_1.1.pdf).
