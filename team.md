@@ -1,6 +1,6 @@
 ---
-title: People
-subtitle: The humans behind this project
+title: Our Team Members
+subtitle: The humans behind this code sharing repo
 members:
   - name: Lisa White
     img: /img/team/lisa.jpg
@@ -14,6 +14,16 @@ members:
     website: http://www.tropmedres.ac/researchers/researcher/ben-cooper
     url: http://tropmedres.ac
     github: https://twitter.com/bugwonk
+  - name: Wirichada Pan-Ngum
+    img: /img/team/pan.jpg
+    desc: Deputy Head of Mathematical Modelling & Assistant Professor
+    website: http://www.tropmedres.ac/researchers/researcher/wirichada-pan-ngum
+    url: http://tropmedres.ac
+  - name: Yoel Lubell
+    img: /img/team/yoel.jpg
+    desc: Head & University Research Lecturer
+    website: http://www.tropmedres.ac/researchers/researcher/yoel-lubell
+    url: http://tropmedres.ac   
 ---
 
 
