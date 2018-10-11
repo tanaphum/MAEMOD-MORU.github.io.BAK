@@ -13,7 +13,7 @@ members:
     desc: MRC Senior Research Fellow & Associate Professor
     website: http://www.tropmedres.ac/researchers/researcher/ben-cooper
     url: http://tropmedres.ac
-    github: https://twitter.com/bugwonk
+    twitter: https://twitter.com/bugwonk
   - name: Wirichada Pan-Ngum
     img: /img/team/pan.jpg
     desc: Deputy Head of Mathematical Modelling & Assistant Professor
