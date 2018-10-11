@@ -3,7 +3,7 @@ layout: page
 title: MAEMOD Code Sharing Site
 subtitle: This is where we share our software codes, data and information of our projects
 ---
-<img src="/img/morulogo.png" title="MORU logo" alt="MORU logo" />
+![MORU logo](/img/morulogo.png)
 
 The Mathematical and Economic MODelling (MAEMOD) Department’s main research focus is mathematical and economic models for the transmission, control and elimination of tropical diseases. Because of its position in a tropical medicine research unit serving South-East Asia, MAEMOD’s work is closely integrated with other disciplines. This results in research that is highly pragmatic and data-driven, often involving dynamic interplay with experiments and field research.
 
