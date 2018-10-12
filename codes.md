@@ -13,7 +13,7 @@ subtitle: This is where we share our software, codes, data and information of ou
 - [Utility for Randomforest predicting resistance to ceftriaxone](https://moru.shinyapps.io/ahc-ml-amr-cost/)
 - [HEV vaccination policy evaluation tool](https://moru.shinyapps.io/HEVmodel/)
 - [LOMWRU AMR Dashboard](https://moru.shinyapps.io/laoamr/)
-- [Welcome to the Economic Cost of AMR App](https://moru.shinyapps.io/amrcost/)
+- [Economic Cost of AMR](https://moru.shinyapps.io/amrcost/)
 - [METCAP: Malaria Elimination Transmission and Costing in the Asia-Pacific](https://moru.shinyapps.io/METCAP/)
 - [SEGmented Regression for Interrupted Time Series (SEGRITS) ](https://moru.shinyapps.io/SERIES/)
 - [a web based mathematical modelling tool or *app* to support _Plasmodium  falciparum_ malaria elimination strategy design](https://moru.shinyapps.io/MDA_eff/)
@@ -21,10 +21,13 @@ subtitle: This is where we share our software, codes, data and information of ou
 - [Cambodia Malaria Outbreak Detection Tool](https://moru.shinyapps.io/CambodiaODT/)
 
 
+
 # Tools/Codes
 
 - [maemod R package](https://github.com/slphyx/maemod)
 - [A collection of the P. falciparum Dynamic models](https://github.com/slphyx/P.-falciparum-Dynamics)
+- [Hat Game: A Simple SIR model](https://slphyx.shinyapps.io/HatGame/) [Codes](https://github.com/slphyx/hatgame)
+
 
 
 # Course Materials
