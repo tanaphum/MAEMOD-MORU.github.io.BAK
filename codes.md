@@ -6,7 +6,7 @@ subtitle: This is where we share our software, codes, data and information of ou
 
 # Projects
 
-- [Malaria Elimination on the web ](https://maemod-moru.github.io/2018-10-11-malaria-elimination/) A free, internet-based, user-friendly and interactive mathematical model of malaria elimination as a tool for policy makers. 
+- [Malaria Elimination on the web](https://maemod-moru.github.io/2018-10-11-malaria-elimination/) 
 - [Estimation of gestational age from fundal height: a solution for resource-poor settings](http://www.tropmedres.ac/gestational-age) 
 - [Identify artemisinin resistance from parasite clearance half-life data](https://malaria.shinyapps.io/id_artemisinin_resistance/) [Codes](https://github.com/MAEMOD-MORU/mixmodelpaperfinal)
 - [Cost-Effectiveness of G6PD Screening](http://www.tropmedres.ac/cost-effectiveness-of-g6pd-screening)
