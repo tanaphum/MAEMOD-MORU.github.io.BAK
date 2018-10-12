@@ -24,7 +24,7 @@ subtitle: This is where we share our software, codes, data and information of ou
 
 # Tools/Codes
 
-- [maemod R package](https://github.com/slphyx/maemod)
+- [maemod R package](https://github.com/slphyx/maemod) [Web](https://slphyx.shinyapps.io/maemodshiny/)
 - [A collection of the P. falciparum Dynamic models](https://github.com/slphyx/P.-falciparum-Dynamics)
 - [Hat Game: A Simple SIR model](https://slphyx.shinyapps.io/HatGame/) [Codes](https://github.com/slphyx/hatgame)
 
