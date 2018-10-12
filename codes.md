@@ -21,9 +21,10 @@ subtitle: This is where we share our software, codes, data and information of ou
 - [Cambodia Malaria Outbreak Detection Tool](https://moru.shinyapps.io/CambodiaODT/)
 
 
-# Tools
+# Tools/Codes
 
 - [maemod R package](https://github.com/slphyx/maemod)
+- [A collection of the P. falciparum Dynamic models](https://github.com/slphyx/P.-falciparum-Dynamics)
 
 
 # Course Materials
