@@ -27,6 +27,10 @@ subtitle: This is where we share our software, codes, data and information of ou
 - [maemod R package](https://github.com/slphyx/maemod) [Web](https://slphyx.shinyapps.io/maemodshiny/)
 - [A collection of the P. falciparum Dynamic models](https://github.com/slphyx/P.-falciparum-Dynamics)
 - [Hat Game: A Simple SIR model](https://slphyx.shinyapps.io/HatGame/) [Codes](https://github.com/slphyx/hatgame)
+- [MAEMOD BUGS](https://github.com/slphyx/maemodBUGS)
+- [Kung R package](https://github.com/slphyx/Kung)
+- [RLongLexTo - Thai word segmentation](https://github.com/slphyx/RLongLexTo)
+- [RLongdoDict - TH-EN Dictionary](https://github.com/slphyx/RLongdoDict)
 
 
 
